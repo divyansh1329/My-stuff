@@ -1,0 +1,16 @@
+We have developed an informative website which provides information about principles of design.
+
+ -  What we wanted to do !!
++ show the information with nice front end
++ add down arrows to move to next page
++ Sign in / sign up functionality with session, 
++ Include comment boxes / forum at bottom showing comments with username.
+
+ - what we could not do !!
++ we colud involve a log out button
++comment boxes could not be implemented.
+
+
+--> MAKE SURE TO CHANGE MySQL ID AND PASSWORD ACCORDINGLY IN LINE 8 AND LINE 47 IN index.php
+
+--> Site is best viewed in 1366x768 resolution.
